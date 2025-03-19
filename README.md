@@ -1,4 +1,4 @@
 # nego-demo
 This is my first git repo.
 <br>
-Author - Kshitij Jain
+Author - Kshitij Jain(Founder of NEGO)
